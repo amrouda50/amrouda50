@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Deep Learning 🖥️, Machine learning 🤖, AWS☁️, Algorithmic game theory👾, Robotics 🦾**
 
+- 🤖 I'm currently working on **creating a fencing robot**
+
 - 💬 Ask me about **React,Vue,LibGdx, Jenkins,Algorithms and data structures,gradle,Java,C/C++,Typescript,Javascript,Laravel**
 
 - 📫 How to reach me **amrouda50@hotmail.com**

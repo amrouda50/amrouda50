@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Ashour</h1>
-<h3 align="center">Fullstack software developer.I finished my bachelor degree at Eotvos Lorand University.Currently a masters student at Technical University Of Munich</h3>
+<h3 align="center">Full-stack software developer, I have completed my bachelor's degree at Eotvos Lorand University. Currently, I am a master's student at the Technical University of Munich.</h3>
 
 - 🌱 I’m currently learning **Deep Learning 🖥️, Machine learning 🤖, AWS☁️, Algorithmic game theory👾, Robotics 🦾**
 
